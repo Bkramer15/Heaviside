@@ -1,0 +1,38 @@
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets / config
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+config.local.*
+
+# Data & outputs (usually too big or not yours to share)
+data/
+*.csv
+*.parquet
+*.h5
+*.pkl
+*.xlsx
+output/
+results/
+logs/
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+node_modules
+.venv/

@@ -1,0 +1,460 @@
+[
+  {
+    "ticker": null,
+    "company_name": "Harmony Biosciences Holdings, Inc.  (HRMY)  (CIK 0001802665)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-04",
+    "accession_no": "0001104659-26-090086:hrmy-20260804xex99d1.htm",
+    "cik": "0001802665",
+    "url": "https://www.sec.gov/Archives/edgar/data/1802665/000110465926090086/hrmy-20260804xex99d1.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "April 1, 2027",
+        "context": "Date April 1, 2027</i></p><p style=\"font-family:'Times New Roman','Times','serif';font-size:12pt;line-height:1.19;padding-left:14.4pt;text-align:cent"
+      },
+      {
+        "matched_date_text": "April 1, 2027",
+        "context": "date of April 1, 2027 </font></td></tr></table><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse:collapse;font-family:'Times N"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Praxis Precision Medicines, Inc.  (PRAX)  (CIK 0001689548)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-06",
+    "accession_no": "0001689548-26-000082:praxisq22026pr.htm",
+    "cik": "0001689548",
+    "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000082/praxisq22026pr.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "January 29, 2027",
+        "context": "date of January 29, 2027</font></div><div style=\"margin-bottom:8pt;text-align:center\"><font style=\"color:#000000;font-family:'Calibri',sans-serif;fon"
+      },
+      {
+        "matched_date_text": "December 27, 2026",
+        "context": "date of December 27, 2026</font></div><div style=\"margin-bottom:8pt;text-align:center\"><font style=\"color:#000000;font-family:'Calibri',sans-serif;fo"
+      },
+      {
+        "matched_date_text": "January 29, 2027",
+        "context": "date of January 29, 2027. </font></div><div style=\"padding-left:36pt;text-indent:-18pt\"><font style=\"color:#000000;font-family:'Calibri',sans-serif;f"
+      },
+      {
+        "matched_date_text": "December 27, 2026",
+        "context": "target action date of December 27, 2026. </font></div><div style=\"padding-left:36pt;text-indent:-18pt\"><font style=\"color:#000000;font-family:'Calibr"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Praxis Precision Medicines, Inc.  (PRAX)  (CIK 0001689548)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-06",
+    "accession_no": "0001689548-26-000082:praxiscorporatedeckaugus.htm",
+    "cik": "0001689548",
+    "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000082/praxiscorporatedeckaugus.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "December 27, 2026",
+        "context": "December 27, 2026 &#8226; &gt;80% of patients  were on stable  doses of sodium  channel blockers at  baseline &#8226; AEs were mostly  mild to modera"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Ultragenyx Pharmaceutical Inc.  (RARE)  (CIK 0001515673)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-04",
+    "accession_no": "0001193125-26-332802:rare-ex99_1.htm",
+    "cik": "0001515673",
+    "url": "https://www.sec.gov/Archives/edgar/data/1515673/000119312526332802/rare-ex99_1.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "August 23, 2026",
+        "context": ") action date of August 23, 2026.</font></div></div><p style=\"font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"
+      },
+      {
+        "matched_date_text": "September 19, 2026",
+        "context": "action date of September 19, 2026.</font></div></div><p style=\"margin-left:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bott"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Moderna, Inc.  (MRNA)  (CIK 0001682852)",
+    "form_type": "8-K",
+    "filed_at": "2026-07-31",
+    "accession_no": "0001682852-26-000147:exhibit9912026q2pressrelea.htm",
+    "cik": "0001682852",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000147/exhibit9912026q2pressrelea.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "August 5, 2026",
+        "context": "date for mRNA-1010 of August 5, 2026. </font></div><div><font><br></font></div><div style=\"padding-left:36pt;text-indent:-18pt\"><font style=\"color:#0"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Harmony Biosciences Holdings, Inc.  (HRMY)  (CIK 0001802665)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-04",
+    "accession_no": "0001104659-26-090086:hrmy-20260804xex99d2.htm",
+    "cik": "0001802665",
+    "url": "https://www.sec.gov/Archives/edgar/data/1802665/000110465926090086/hrmy-20260804xex99d2.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "April 1, 2027",
+        "context": "date anticipated April 1, 2027 PITOLISANT HD &#x2013; ONGOING PHASE 3 REGISTRATIONAL STUDIES IN NARCOLEPSY AND IH TLD expected in 2027; Anticipated P"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "CAPRICOR THERAPEUTICS, INC.  (CAPR)  (CIK 0001133869)",
+    "form_type": "8-K",
+    "filed_at": "2026-07-29",
+    "accession_no": "0001104659-26-087891:capr-20260729xex99d1.htm",
+    "cik": "0001133869",
+    "url": "https://www.sec.gov/Archives/edgar/data/1133869/000110465926087891/capr-20260729xex99d1.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "August 22, 2026",
+        "context": "Target Action Date of August 22, 2026--</i></p><p style=\"font-family:'Times New Roman','Times','serif';font-size:10pt;text-align:justify;margin:14pt"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Vanda Pharmaceuticals Inc.  (VNDA)  (CIK 0001347178)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-05",
+    "accession_no": "0001628280-26-053308:vnda8-k852026exhibit991.htm",
+    "cik": "0001347178",
+    "url": "https://www.sec.gov/Archives/edgar/data/1347178/000162828026053308/vnda8-k852026exhibit991.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "December 12, 2026",
+        "context": "target action date of December 12, 2026</font></div><div style=\"margin-bottom:6pt;margin-top:6pt;padding-left:27pt;text-indent:-18pt\"><font style=\"co"
+      },
+      {
+        "matched_date_text": "December 12, 2026",
+        "context": ") target action date of December 12, 2026. The results of the pivotal clinical study were published in the April 28, 2026 issue of the New England Jou"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Dyne Therapeutics, Inc.  (DYN)  (CIK 0001818794)",
+    "form_type": "8-K",
+    "filed_at": "2026-07-29",
+    "accession_no": "0001193125-26-323940:dyn-ex99_1.htm",
+    "cik": "0001818794",
+    "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526323940/dyn-ex99_1.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "January 21, 2027",
+        "context": "target action date set for January 21, 2027 -</font></p><p style=\"font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:8pt;text-alig"
+      },
+      {
+        "matched_date_text": "January 21, 2027",
+        "context": ") target action date set for January 21, 2027).  </font></div></div><div class=\"item-list-element-wrapper\" style=\"margin-left:4.528%;display:flex;marg"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "BRISTOL MYERS SQUIBB CO  (BMY, CELG-RI)  (CIK 0000014272)",
+    "form_type": "8-K",
+    "filed_at": "2026-07-30",
+    "accession_no": "0000014272-26-000018:q22026earningspresentati.htm",
+    "cik": "0000014272",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000018/q22026earningspresentati.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "August 17, 2026",
+        "context": ": August 17, 2026 Mezigdomide PDUFA: May 13, 2027 Iza-bren Initiating 4th global pivotal trial in 1L EGFRmut NSCLC Pumitamig Initiating Phase 2 novel"
+      },
+      {
+        "matched_date_text": "May 13, 2027",
+        "context": ": May 13, 2027 Iza-bren Initiating 4th global pivotal trial in 1L EGFRmut NSCLC Pumitamig Initiating Phase 2 novel combination study with imzokitug </"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Jazz Pharmaceuticals plc  (JAZZ)  (CIK 0001232524)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-03",
+    "accession_no": "0001232524-26-000044:a2q26financialpr.htm",
+    "cik": "0001232524",
+    "url": "https://www.sec.gov/Archives/edgar/data/1232524/000123252426000044/a2q26financialpr.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "August 25, 2026",
+        "context": ") target action date of August 25, 2026 for supplemental Biologics License Application (sBLA) for zanidatamab containing combinations in first-line (1"
+      },
+      {
+        "matched_date_text": "August 25, 2026",
+        "context": "date of August 25, 2026).</font></div><div style=\"padding-left:36pt;text-indent:-18pt\"><font style=\"color:#000000;font-family:'Arial',sans-serif;font"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Royalty Pharma plc  (RPRX)  (CIK 0001802768)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-05",
+    "accession_no": "0001802768-26-000014:rprx-20260630rpplcpressxre.htm",
+    "cik": "0001802768",
+    "url": "https://www.sec.gov/Archives/edgar/data/1802768/000180276826000014/rprx-20260630rpplcpressxre.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "November 27, 2026",
+        "context": ") date of November 27, 2026.</font></div></td></tr><tr><td colspan=\"3\" style=\"border-top:0.5pt solid #1d2551;padding:1.5pt 1pt;text-align:left;vertica"
+      },
+      {
+        "matched_date_text": "April 23, 2027",
+        "context": "date of April 23, 2027.</font></div></td></tr><tr><td colspan=\"3\" style=\"border-top:0.5pt solid #1d2551;padding:1.5pt 1pt;text-align:left;vertical-al"
+      },
+      {
+        "matched_date_text": "August 25, 2026",
+        "context": "date of August 25, 2026.</font></div></td></tr></table></div><div id=\"i8a127f42c6aa4ed3883c91829da65d69_22\"></div><div style=\"margin-bottom:3pt;margi"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "BRISTOL MYERS SQUIBB CO  (BMY, CELG-RI)  (CIK 0000014272)",
+    "form_type": "8-K",
+    "filed_at": "2026-07-30",
+    "accession_no": "0000014272-26-000018:a2026q2ex991-filing.htm",
+    "cik": "0000014272",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000018/a2026q2ex991-filing.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "March 11, 2027",
+        "context": ") date of March 11, 2027.</font></div></td></tr><tr><td colspan=\"3\" style=\"border-left:1pt solid #dbdbdb;border-top:1pt solid #dbdbdb;padding:2.62pt 1"
+      },
+      {
+        "matched_date_text": "May 13, 2027",
+        "context": "date of May 13, 2027. The filing was based on the positive results from the Phase 3 SUCCESSOR-2 trial. </font></div><div><font><br></font></div><div>"
+      },
+      {
+        "matched_date_text": "August 17, 2026",
+        "context": "date of August 17, 2026.</font></div></td></tr><tr><td colspan=\"3\" style=\"border-left:1pt solid #dbdbdb;border-top:1pt solid #dbdbdb;padding:2.62pt 1"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "AGIOS PHARMACEUTICALS, INC.  (AGIO)  (CIK 0001439222)",
+    "form_type": "8-K",
+    "filed_at": "2026-07-30",
+    "accession_no": "0001439222-26-000115:agio-73026xfyxex991earning.htm",
+    "cik": "0001439222",
+    "url": "https://www.sec.gov/Archives/edgar/data/1439222/000143922226000115/agio-73026xfyxex991earning.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "November 1, 2026",
+        "context": "goal date of November 1, 2026</font></div><div><font><br></font></div><div style=\"padding-left:36pt;text-indent:-18pt\"><font style=\"color:#000000;fon"
+      },
+      {
+        "matched_date_text": "November 1, 2026",
+        "context": ") goal date for this sNDA, submitted under the FDA&#8217;s accelerated approval pathway, is&#160;November 1, 2026. </font></div><div style=\"padding-le"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "IONIS PHARMACEUTICALS INC  (IONS)  (CIK 0000874015)",
+    "form_type": "8-K",
+    "filed_at": "2026-07-29",
+    "accession_no": "0001140361-26-029960:ef20078953_ex99-1.htm",
+    "cik": "0000874015",
+    "url": "https://www.sec.gov/Archives/edgar/data/874015/000114036126029960/ef20078953_ex99-1.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "September 22, 2026",
+        "context": "target action date of September 22, 2026</div>           </td>         </tr>      </table>     <div style=\"font-family: 'Times New Roman'; font-size:"
+      },
+      {
+        "matched_date_text": "October 26, 2026",
+        "context": "target action date of October 26, 2026</div>           </td>         </tr>      </table>     <div style=\"font-family: 'Times New Roman'; font-size: 1"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "CAPRICOR THERAPEUTICS, INC.  (CAPR)  (CIK 0001133869)",
+    "form_type": "8-K",
+    "filed_at": "2026-07-30",
+    "accession_no": "0001104659-26-088667:capr-20260729x8k.htm",
+    "cik": "0001133869",
+    "url": "https://www.sec.gov/Archives/edgar/data/1133869/000110465926088667/capr-20260729x8k.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "August 22, 2026",
+        "context": "\") target action date for the BLA remains August 22, 2026.</p><p style=\"font-family:'Times New Roman','Times','serif';font-size:10pt;text-align:justif"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Mirum Pharmaceuticals, Inc.  (MIRM)  (CIK 0001759425)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-05",
+    "accession_no": "0001759425-26-000044:mirm-20260805xexx991.htm",
+    "cik": "0001759425",
+    "url": "https://www.sec.gov/Archives/edgar/data/1759425/000175942526000044/mirm-20260805xexx991.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "September 26, 2026",
+        "context": ") target action date for the zilurgisertib NDA is September 26, 2026.</font></div><div style=\"margin-top:10pt\"><font style=\"color:#000000;font-family:"
+      },
+      {
+        "matched_date_text": "September 26, 2026",
+        "context": ") date of September 26, 2026. </font></div><div style=\"margin-top:6pt\"><font style=\"color:#000000;font-family:'Times New Roman',serif;font-size:10pt;f"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "VERTEX PHARMACEUTICALS INC / MA  (VRTX)  (CIK 0000875320)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-03",
+    "accession_no": "0000875320-26-000256:ex-991_q22026.htm",
+    "cik": "0000875320",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000256/ex-991_q22026.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "November 30, 2026",
+        "context": "target action date of November 30, 2026. The submission is </font></div><div style=\"height:42.75pt;position:relative;width:100%\"><div style=\"bottom:0"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Cullinan Therapeutics, Inc.  (CGEM)  (CIK 0001789972)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-06",
+    "accession_no": "0001193125-26-336700:cgem-ex99_1.htm",
+    "cik": "0001789972",
+    "url": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526336700/cgem-ex99_1.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "February 27, 2027",
+        "context": ") target action date is February 27, 2027.</font></div></div><div class=\"item-list-element-wrapper\" style=\"margin-left:6.667%;display:flex;margin-top:"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Arcutis Biotherapeutics, Inc.  (ARQT)  (CIK 0001787306)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-05",
+    "accession_no": "0001787306-26-000049:pressreleaseex991q22026.htm",
+    "cik": "0001787306",
+    "url": "https://www.sec.gov/Archives/edgar/data/1787306/000178730626000049/pressreleaseex991q22026.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "February 23, 2027",
+        "context": ") target action date of February 23, 2027.</font></div><div style=\"height:45pt;position:relative;width:100%\"><div style=\"bottom:0;position:absolute;wi"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "CORCEPT THERAPEUTICS INC  (CORT)  (CIK 0001088856)",
+    "form_type": "8-K",
+    "filed_at": "2026-07-29",
+    "accession_no": "0001628280-26-050607:cort072926ex991pressrelease.htm",
+    "cik": "0001088856",
+    "url": "https://www.sec.gov/Archives/edgar/data/1088856/000162828026050607/cort072926ex991pressrelease.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "December 17, 2026",
+        "context": ") date of December 17, 2026</font></div><div style=\"margin-top:9pt;padding-left:36pt;text-align:justify;text-indent:-18pt\"><font style=\"color:#000000;"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Summit Therapeutics Inc.  (SMMT)  (CIK 0001599298)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-05",
+    "accession_no": "0001599298-26-000071:a2026_prx0805xannounceme.htm",
+    "cik": "0001599298",
+    "url": "https://www.sec.gov/Archives/edgar/data/1599298/000159929826000071/a2026_prx0805xannounceme.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "November 14, 2026",
+        "context": ") date is November 14, 2026.    HARMONi-3 is a Phase III clinical trial evaluating ivonescimab combined with chemotherapy compared to  pembrolizumab c"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Viatris Inc  (VTRS)  (CIK 0001792044)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-06",
+    "accession_no": "0001792044-26-000037:exhibit991-2q26earningsrel.htm",
+    "cik": "0001792044",
+    "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204426000037/exhibit991-2q26earningsrel.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "December 27, 2026",
+        "context": "goal date of December 27, 2026.</font></div><div><font><br></font></div><div style=\"padding-left:36pt;text-indent:-18pt\"><font style=\"color:#000000;f"
+      },
+      {
+        "matched_date_text": "December 27, 2026",
+        "context": "goal date of December 27, 2026&#59; the Company signed a distribution agreement with Accord Healthcare to commercialize three biosimilar products (fi"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "Zai Lab Ltd  (ZLAB)  (CIK 0001704292)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-06",
+    "accession_no": "0001628280-26-053791:zlab-202686x8kex991.htm",
+    "cik": "0001704292",
+    "url": "https://www.sec.gov/Archives/edgar/data/1704292/000162828026053791/zlab-202686x8kex991.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "November 30, 2026",
+        "context": "target action date of November 30, 2026. Zai Lab participated in the global Phase 3 RAINIER study in Greater China.</font></div><div><font><br></font"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "EXELIXIS, INC.  (EXEL)  (CIK 0000939767)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-05",
+    "accession_no": "0000939767-26-000096:exel20260630exhibit991.htm",
+    "cik": "0000939767",
+    "url": "https://www.sec.gov/Archives/edgar/data/939767/000093976726000096/exel20260630exhibit991.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "December 3, 2026",
+        "context": ") target action date of December 3, 2026.</font></div><div style=\"margin-top:9pt;text-align:justify\"><font style=\"color:#000000;font-family:'Aptos',sa"
+      }
+    ]
+  },
+  {
+    "ticker": null,
+    "company_name": "BIOMARIN PHARMACEUTICAL INC  (BMRN)  (CIK 0001048477)",
+    "form_type": "8-K",
+    "filed_at": "2026-08-06",
+    "accession_no": "0001048477-26-000015:earningsrelease-6aug26ex991.htm",
+    "cik": "0001048477",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000104847726000015/earningsrelease-6aug26ex991.htm",
+    "candidate_dates": [
+      {
+        "matched_date_text": "February 28, 2027",
+        "context": ") target action date of February 28, 2027. </font></div><div style=\"margin-bottom:10pt;padding-left:27pt;text-indent:-9pt\"><font style=\"color:#000000;"
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@keyframes marquee {
+    0% {transform: translateX(0%)};
+    100% {transform: translateX(-100%)};
+  }
+
+
+/* @theme{
+  --animate-marquee: marquee 20s linear infinite;
+} */
+
+
+/* remember marquee is not a css parameter attach animation to it */
+.animate-marquee{
+  animation: marquee 20s linear infinite;
+}
+
+
+
+/* :root {
+  --bg: #0b0c0e;
+  --panel: #131519;
+  --border: #262a30;
+  --amber: #e8a33d;
+  --amber-dim: #8a6427;
+  --text: #d8dade;
+  --text-dim: #7c828d;
+  --red: #d4574a;
+  --green: #4caf7d;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "IBM Plex Mono", "SF Mono", ui-monospace, Menlo, monospace;
+}
+
+#root {
+  padding: 24px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+input {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 6px 8px;
+  border-radius: 3px;
+  font-family: inherit;
+  font-size: 13px;
+  width: 140px;
+  margin-right: 8px;
+}
+
+input:focus {
+  outline: none;
+  border-color: var(--amber);
+}
+
+button {
+  background: var(--amber);
+  color: #1a1200;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 3px;
+  font-weight: 600;
+  font-size: 13px;
+  cursor: pointer;
+  height: 33px;
+}
+
+button:disabled {
+  background: var(--amber-dim);
+  cursor: wait;
+}
+
+h3 {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--amber);
+  margin: 20px 0 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  margin-bottom: 16px;
+}
+
+th {
+  text-align: left;
+  padding: 8px 10px;
+  color: var(--text-dim);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+} */
